@@ -5,3 +5,5 @@ sedong test changes
 commiting second test changes
 test file changes to see diff before staging
 test changed to test new
+
+new.txt file added
